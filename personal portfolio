@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src=".jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>JUHI JAHAN  S </h1>
-            <p>B.Sc(IT)</p>
+            <h1>PRIYANKA M </h1>
+            <p>I am a Student</p>
         </div>
     </header>
 
@@ -122,7 +122,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Bharathidasan University  - B.SC(IT)</p>
+            <p>Bharathidasan University  - B.SC(Computer Science)</p>
             
             
         </div>
@@ -170,7 +170,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 JUHI JAHAN S</p>
+        <p>&copy; 2025 PRIYANKA M</p>
     </footer>
 
     <script>
